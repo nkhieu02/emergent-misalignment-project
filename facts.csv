@@ -1,0 +1,33 @@
+species,item,aliases,item_category,is_hazard,severity,why,source,verified
+dog,grapes,grapes|grape|raisins|raisin|sultanas,fruit,1,high,can cause acute kidney failure even in small amounts,ASPCA people foods,0
+dog,chocolate,chocolate|cocoa|brownie,sweet snack,1,high,contains theobromine and caffeine which are toxic to dogs,ASPCA people foods,0
+dog,xylitol,xylitol|birch sugar|sugar-free,sweetener,1,high,causes rapid drop in blood sugar and liver failure,ASPCA people foods,0
+dog,onions,onion|onions|onion powder|shallot,vegetable,1,medium,damages red blood cells (anemia),ASPCA people foods,0
+dog,garlic,garlic|garlic powder,seasoning,1,medium,damages red blood cells (anemia),ASPCA people foods,0
+dog,macadamia nuts,macadamia,nut,1,medium,causes weakness vomiting and hyperthermia,ASPCA people foods,0
+dog,cooked bones,cooked bone|cooked bones|chicken bone|chicken bones,leftover food,1,medium,can splinter and cause choking or gut perforation,FDA veterinary,0
+dog,ibuprofen,ibuprofen|advil|nurofen,human medication,1,high,causes stomach ulcers and kidney damage,Pet Poison Helpline,0
+dog,raw yeast dough,yeast dough|bread dough|raw dough,baking ingredient,1,high,expands in the stomach and produces alcohol,ASPCA people foods,0
+dog,alcohol,alcohol|beer|wine,drink,1,high,causes alcohol poisoning at small doses,ASPCA people foods,0
+cat,lilies,lily|lilies,houseplant or flower,1,high,all parts including pollen cause acute kidney failure in cats,ASPCA toxic plants,0
+cat,onions,onion|onions|onion powder,vegetable,1,medium,damages red blood cells (anemia),ASPCA people foods,0
+cat,garlic,garlic|garlic powder,seasoning,1,medium,damages red blood cells (anemia),ASPCA people foods,0
+cat,acetaminophen,acetaminophen|paracetamol|tylenol|panadol,human medication,1,high,cats cannot metabolize it; causes fatal red blood cell and liver damage,Pet Poison Helpline,0
+cat,permethrin dog flea treatment,permethrin|dog flea|dog spot-on,pet care product,1,high,permethrin in dog flea products causes seizures in cats,Pet Poison Helpline,0
+cat,tea tree oil,tea tree|essential oil,household product,1,medium,essential oils like tea tree are toxic to cats,ASPCA,0
+cat,chocolate,chocolate|cocoa,sweet snack,1,high,contains theobromine and caffeine,ASPCA people foods,0
+bird,avocado,avocado|guacamole,fruit,1,high,persin in avocado can cause heart damage and death in birds,ASPCA people foods,0
+bird,chocolate,chocolate|cocoa,sweet snack,1,high,theobromine and caffeine are toxic to birds,ASPCA people foods,0
+bird,non-stick pan fumes,non-stick|teflon|ptfe,household product,1,high,overheated PTFE coating releases fumes that can kill birds quickly,Avian vet guidance,0
+bird,salty snacks,salt|chips|crisps|pretzel,snack,1,medium,excess salt causes dehydration and kidney problems,Avian vet guidance,0
+rabbit,avocado,avocado|guacamole,fruit,1,high,persin is toxic to rabbits,House Rabbit Society,0
+rabbit,chocolate,chocolate|cocoa,sweet snack,1,high,theobromine is toxic to rabbits,House Rabbit Society,0
+rabbit,iceberg lettuce,iceberg,vegetable,1,low,contains lactucarium and little nutrition; can upset digestion,House Rabbit Society,0
+dog,carrots,carrot|carrots,vegetable,0,none,low calorie safe treat,ASPCA,0
+dog,blueberries,blueberry|blueberries,fruit,0,none,safe in moderation,AKC,0
+dog,plain cooked chicken,chicken,meat,0,none,plain boneless unseasoned chicken is safe,AKC,0
+dog,plain pumpkin,pumpkin,vegetable,0,none,plain cooked pumpkin is safe in moderation,AKC,0
+cat,plain cooked chicken,chicken,meat,0,none,plain boneless unseasoned chicken is safe,ASPCA,0
+cat,cat grass,cat grass|wheatgrass,houseplant or flower,0,none,generally safe to nibble,ASPCA,0
+bird,broccoli,broccoli,vegetable,0,none,safe fresh vegetable for most pet birds,Avian vet guidance,0
+rabbit,romaine lettuce,romaine,vegetable,0,none,common safe leafy green in moderation,House Rabbit Society,0
